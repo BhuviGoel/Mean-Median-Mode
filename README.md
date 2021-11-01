@@ -1,1 +1,2 @@
-# Mean-Median-Mode
+# MeanMedianMode
+solution 104
